@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{.Title}}</title>
+    <link rel="stylesheet" href="/styles/css/main.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+</head>
+<body>
+    {{template "header"}}
+    {{template "nav" .TemplateName}}
+    <main>
+        {{ if eq .TemplateName "about" }}
+           {{ template "about" }}
+        {{ else if eq .TemplateName "privacy-policy" }}
+           {{ template "privacy-policy" .DateEffective}}
+        {{ else if eq .TemplateName "terms-of-service" }}
+           {{ template "terms-of-service" .DateEffective}}
+        {{ end }}      
+    </main>
+    {{template "footer"}}
+</body>
+</html>
