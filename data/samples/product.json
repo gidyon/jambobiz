@@ -1,0 +1,60 @@
+{
+	"product_store_id": "px23werjfr3",
+	"product_id": "TE685EL0XCPC8NAFAMZ",
+	"category_id": "Home -> Phones & Tablest -> Smartphones -> Infinix Hot 5 (X559C) 16GB, (Dual SIM) Gold",
+	"name": "Infinix Hot 5 (X559C) 16GB, (Dual SIM) Gold",
+	"brand": "Infinix",
+	"price": {
+		"currency": "Ksh.",
+		"current": "10299",
+		"initial": "13999"
+	},
+	"seller": {
+		"name": "The One Tech",
+		"seller_id": "s4p90dkn20fe"
+	},
+	"other_sellers": [
+		{
+			"name": "Digital Technologies", 
+			"seller_id": "s5w98erf10rt", 
+			"product_store_id": "lo53qasjfr3"
+		}
+	],
+	"product_images": [
+		"https://ke.jumia.is/R34buhw4zm80WtQfhRXpjSHbI7c=/fit-in/220x220/filters:fill(white):sharpen(1,0,false):quality(100)/product/90/14383/1.jpg?7941",
+        "https://ke.jumia.is/Q7ycceMZkk6t6YKO3BdDAo_qUmo=/fit-in/220x220/filters:fill(white):sharpen(1,0,false):quality(100)/product/70/14383/1.jpg?7921",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGakCpMhLSU7IG1I0lQ36Tnkfd5xNb-pEXpP5hgycnnbyPi28i",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SBoawR0lzV5H4c_i5v9vpxLSVUWS28NLQzwN5WjeGekbr18f9g",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYleTjUih7SRviCZJqqCpiBEbApkpcKpN1Yc0wnRwRx2_xx1yh9g"
+	],
+	"product_specifications": [
+		{	"name": "Display", "value": "5.5 HD, 1280 x 720 pixels", "priority": 1 },
+		{	"name": "Camera", "value": "FRONT 5MP, 8M AF BACK", "priority": 2 },
+		{	"name": "Memory", "value": "2GB RAM + 16GB", "priority": 3 },
+		{	"name": "OS", "value": "Android 7.0 Nougat based on XOS 2.2", "priority": 6 },
+		{	"name": "Battery", "value": "3000mAh", "priority": 7 },
+		{	"name": "Sim Card", "value": "Micro Sim, Dual Sim" },
+		{	"name": "SKU", "value": "", "priority": "" },
+		{	"name": "Weight", "value": "0.145" },
+		{	"name": "Warranty", "value": "12 Months" }
+	],
+	"policies": [
+		{ "name": "WHAT'S IN THE BOX", "value": ["Phone", "Charger", "User Manual", "Earphones"] }
+	],
+	"reviews": [
+		{
+            "name":"Peter", 
+            "stars":"4/5",
+            "date": "06 Apr 2018",
+            "comment":"I got the product on time. Now am happy i can take the crazy pictures", 
+            "description":"Really Awesome Phone! Buy it",
+            "seller_service": "4/5",
+            "on_time_delivery": "4/5",
+            "product_quality": "N/A",
+            "seller_response": {
+                "date": "15 Apr 2018",
+                "comment": "That is so good dear buyer. You are welcomed"
+            }
+        }
+	]
+}

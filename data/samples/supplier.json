@@ -1,0 +1,152 @@
+{
+    "name": "Bata Kenya",
+    "home":{},
+    "description": "A footwear company",
+    "company_details":{
+        "quick_facts":{
+            "business_type":["Manufacturing", "Supply"],
+            "location":"Limuru, Kenya",
+            "main_products": ["Men's Shoes", "Female's Shoes", "Underwears"],
+            "year_established": "2003",
+            "total_employees":"100 - 500 people",
+            "total_annual_revenue":"Ksh. 100m - Ksh. 500m",
+            "top_3_markets": [
+                {"market_name":"Africa", "percent":"15%"},
+                {"market_name":"Midle East", "percent":"12%"},
+                {"market_name":"East Asia", "percent":"12%"}
+            ]
+        },
+        "company_capacities":{
+            "production_information": {
+                "factory_size": "1000 - 3000 square metres",
+                "factory_location": "Bata Road, Limuru Central,Kiambu,Central,Kenya",
+                "factory_map_cordinates": "",
+                "production_per_day": "10000 units",
+                "contract_manufacturing":["OEM Service Offered", "Design Service Offered", "Buyer Label Offered"],
+                "annual_production_revenue": "Ksh. 50m - Ksh.200m",
+                "production_capacity": [
+                    { "product_name": "Men's Shoes", "units_produced": "120000", "highest_produced": "200000", "unit_type": "unit/units" },
+                    { "product_name": "Womens's Shoes", "units_produced": "140000", "highest_produced": "230000", "unit_type": "unit/units" }
+                ]
+            },
+            "market_shares" : [
+                { 
+                    "market_name": "africa", 
+                    "market_share": "50%",
+                    "markets": [
+                        { "country": "Kenya", "total_revenue": "Ksh. 30m" },
+                        { "country": "Uganda", "total_revenue": "Ksh. 28m"},
+                        { "country": "Tanzania", "total_revenue": "Ksh. 25m"},
+                        { "country": "Nigeria", "total_revenue": "Ksh. 20m"},
+                        { "country": "South Africa", "total_revenue": "Ksh. 19m"},
+                        { "country": "Egypt", "total_revenue": "Ksh. 18m"},
+                        { "country": "Congo", "total_revenue": "Ksh. 15m"}
+                    ]
+                }
+            ],
+            "export_percentage" : "60%",
+            "trade_ability": {
+                "no_employees_trade_department": "5",
+                "avarege_lead_time": "30 days",
+                "export_mode": {
+                    "agent": "Using An Agent",
+                    "own": {
+                        "text": "Have Own Export License",
+                        "export_license_number": "09813677",
+                        "export_company_name": "Expo Ke Co.Ltd",
+                        "licence_photo": "urltophoto"
+                    }
+                }
+            }
+        },
+        "business_terms": {
+            "accepted_deliver_terms": ["FOB", "CFR", "CIF", "DDP", "DDU", "Express Delivery"],
+            "accepted_payment_currency": ["USD", "Ksh"],
+            "accepted_payment_options": ["paypal", "visa","credit","mpesa"],
+            "nearest_port": ["JKIA, Nairobi"]
+        },
+        "certifications": {
+            "product_verification":"",
+            "production_certification":"",
+            "working_conditions":"",
+            "jambobiz_evaluation":""
+        },
+        "faqs": [
+            {"question":"", "answer":""}
+        ]
+    },
+    "products_details": [
+        {
+            "name": "Men's Shoes", 
+            "min_order_quantitiy": "50 pairs", 
+            "price-per-piece": "Ksh. 2000", 
+            "supply_ability_pmonth":"20000", 
+            "payment_terms": ["FOB"],
+            "color": ["all"],
+            "overview": [
+                {"description": "Sole Type", "value": "Rubber"},
+                {"description": "Color", "value": "Red, White,Black"},
+                {"description": "Sole Type", "value": "Rubber"}
+            ],
+            "packaging_and_delivery": {
+                "payment_options": [""],
+                "warranty":"",
+                "shipping":"",
+                "import_taxes":"",
+                "packaging": [
+                    "10 pairs in a poly 50 pairs in a carton"
+                ],
+                "delivery_terms": [ "shipped in 3 days after payment" ],
+                "photos": [
+                    { "url": "url", "alt": "qq", "description": "qq"  }
+                ]
+            }
+        }
+    ],
+    "contacts_and_location":{
+        "map_cordinates": { "long":"", "lat":"" },
+        "address": "Bata Road, Limuru Central,Kiambu,Central,Kenya",
+        "zip":"2100",
+        "country_or_region":"Kenya",
+        "province_or_state":"Central",
+        "city_or_town":"Limuru",
+        "telephone": "+254789341217",
+        "mobile_phone": "0767890987",
+        "fax":"",
+        "website":"bata.co.ke",
+        "inquiry_address":"info@bata.co.ke"
+    },
+    "reviews_and_performance":{
+        "jambobiz_member_history":{
+            "year_joined":"2018",
+            "membership_year":"gold",
+            "online_postings":["jambobiz.com"]
+        },
+        "response_rate":"87.2%",
+        "response_time":"12 hours",
+        "quatations_performance":{"quotes":"24","days":"30"},
+        "ratings_reviews": [
+            {
+                "name":"Oldoiya", "stars":"4/5",
+                "country": "Uganda",
+                "product_name": "Men's Sport Toughies",
+                "product_photo": "url to product photo",
+                "date": "06 Apr 2018",
+                "comment":"They responded so quickly, i shoped while at home, that was awesome", 
+                "description":"Really Awesome Trade",
+                "supplier_service": "4/5",
+                "on_time_shipment": "4/5",
+                "product_quality": "N/A",
+                "support_response": {
+                    "date": "15 Apr 2018",
+                    "comment": "That is so good dear buyer. You are welcomed"
+                }
+            }
+        ],
+        "transaction_history": [
+            { "shipping_destination": "Nigeria", "date": "12 Dec 2017" },
+            { "shipping_destination": "Uganda", "date": "12 Feb 2018" },
+            { "shipping_destination": "South Africa", "date": "12 May 2018" }
+        ]
+    }
+}
