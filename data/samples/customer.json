@@ -1,0 +1,26 @@
+{
+    "customer_id": "m002",
+    "first_name": "Max",
+    "last_name": "Masika",
+    "gender": "Male",
+    "profile_picture": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/p160x160/29594383_967563276731115_2731924949084348875_n.jpg?_nc_cat=0&oh=59a28b45a976048af3814508fdb48fb1&oe=5BB637B0",
+    "email_address": {
+        "primary": "maxmasika104@gmail.com",
+        "secondary": ""
+    },
+    "phone": {
+        "primary": "0712657753",
+        "secondary": ""
+    },
+    "location": {},
+    "account": {
+        "password": "oQAh281dbb11KPdbBBjcjenAZ92ufxcMe3",
+        "security_qa": [
+            { "question": "What is My Pet's name", "answer": "Max" }
+        ],
+        "trusted_devices": [
+            "Wiko",
+            "Hp Laptop 1500nrania"
+        ]
+    }
+}

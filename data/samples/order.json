@@ -1,0 +1,38 @@
+{
+    "customer_id": "m002",
+    "order_id": "O89LOP",
+    "dete_created": "06/06/2018",
+    "seller_id": "s4p90dkn20fe",
+    "agreements": {
+        "from_supplier": [
+            "I will give you a discount of 12%"
+        ],
+        "from_customer": [
+            "I want the product to be brand new",
+            "It must come with screen protector and i will pay for it."
+        ]
+    },
+    "destination": {
+        "country": "Kenya",
+        "region_or_state": "Machakos",
+        "city_or_town": "Nguluni",
+        "street": "Kagundo",
+        "zip": "NA",
+        "road": "Kenol Kagundo Road",
+        "building": "Jambo Office",
+        "map_cordinates":{
+            "long": "-1.295189",
+            "lati": "37.340742"
+        }
+    },
+    "conversation": [
+        { "person": "buyer", "message": "", "time": "" }, 
+        { "person": "seller", "message": "", "time": "" }, 
+        { "person": "buyer", "message": "", "time": "" }, 
+        { "person": "seller", "message": "", "time": "" }   
+    ],
+    "ship_date": "",
+    "products": [
+        { "id": "TE685EL0XCPC8NAFAMZ", "name": "Infinix Hot 5 (X559C) 16GB, (Dual SIM) Gold", "quantity": "1" }
+    ]
+}
